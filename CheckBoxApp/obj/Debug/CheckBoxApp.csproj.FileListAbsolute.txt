@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\bin\Debug\CheckBoxApp.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\bin\Debug\CheckBoxApp.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\bin\Debug\CheckBoxApp.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\CheckBoxApp\obj\Debug\CheckBoxApp.pdb
